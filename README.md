@@ -1,6 +1,8 @@
 # LGMVIP-DataScience
 Internship program with LetGrowMore as Data Science Intern
 
+PROJECT 1.
+
 Data Set Information:
 
 This is perhaps the best known database to be found in the pattern recognition literature.
